@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/add_a_reminder"
+            android:icon="@drawable/ic_add_entry"
+            android:title="Add a Reminder" />
+        <item
+            android:id="@+id/refreshdb_app"
+            android:icon="@drawable/ic_exit_to_app"
+            android:title="Refresh the database" />
+        <item
+            android:id="@+id/webview_app"
+            android:icon="@drawable/ic_internet_web_browser"
+            android:title="Learn More About Android" />
+        <item
+            android:id="@+id/gestures_app"
+            android:icon="@drawable/ic_touch_gesture_pinch"
+            android:title="Pinch Gesture" />
+        <item
+            android:id="@+id/camera_app"
+            android:icon="@drawable/ic_camera"
+            android:title="Take a Picture" />
+
+        <item
+            android:id="@+id/compass_app"
+            android:icon="@drawable/ic_compass"
+            android:title="Compass" />
+        <item
+            android:id="@+id/exit_app"
+            android:icon="@drawable/ic_exit_to_app"
+            android:title="Exit" />
+    </group>
+</menu>

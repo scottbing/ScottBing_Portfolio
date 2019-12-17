@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">SB_Reminders</string>
+    <string name="take_picture">Take picture</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="title_activity_web_view">Web View</string>
+    <string name="title_activity_gestures">Gestures</string>
+    <string name="title_activity_camera">Camera</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="new_reminder">new Reminder</string>
+    <string name="exit">exit</string>
+    <string name="dialog_delete_confirm">Are you sure?</string>
+    <string name="ok">Ok</string>
+    <string name="cancel">Cancel</string>
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
